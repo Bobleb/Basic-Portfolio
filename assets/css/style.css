@@ -141,3 +141,48 @@ footer{
 	padding-top:15px;
 	padding-bottom:15px;
 }
+
+
+
+
+/* Contact Page css */
+
+#contactbox{
+	text-align:center;
+	background:white;
+	clear:both;
+	margin-left:15%;
+	width:40%;
+	float:left;
+	margin-bottom:5%;
+}
+#contacttitle{
+	background:white;
+	color:blue;
+	text-align:left;
+	padding-left:15%;
+}
+#blankline3{
+	background:silver;
+	padding-top:3px;
+	width:90%;
+	margin-left:5%;
+}
+#nametext{
+	background:white;
+}
+#emailtext{
+	background:white;
+}
+#messagetitle{
+	background:white;
+}
+#exampleInputName1{
+	background:white;
+}
+#nameform{
+	background:white;
+}
+#emailform{
+	background:white;
+}
