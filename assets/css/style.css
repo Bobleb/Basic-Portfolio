@@ -4,34 +4,46 @@
 }
 #topbar{
 	background:white;
+	width:100%;
+	height:65px;
+	position:fixed;
+	top:0px;
+	left:0px;
 }
 #content{
+	margin-top:100px;
 }
 #heading{
 	margin-left:15%;
 	background:teal;
 	font-size:30px;
-	padding-top:10px;
-	padding-left:10px;
-	padding-bottom:10px;
 	padding-right:10px;
 	float:left;
+	margin-top:0px;
+	padding-top:16px;
+	padding-bottom:16px;
+	height:65px;
 }
 #links{
+	background:white;
 	float:right;
 	font-size:20px;
 	padding-top:15px;
 	padding-left:15px;
 	padding-bottom:15px;
 	padding-right:15px;
+	margin-right:20%;
 }
 #linkabout{
+	background:white;
 
 }
 #linkportfolio{
+	background:white;
 
 }
-#linkcontact{
+#linkcontant{
+	background:white;
 
 }
 #aboutme{
@@ -39,7 +51,7 @@
 	background:white;
 	clear:both;
 	margin-left:15%;
-	width:30%;
+	width:40%;
 	float:left;
 }
 #aboutmetitle{
@@ -68,7 +80,7 @@
 	text-align:center;
 	background:white;
 	float:left;
-	width:20%;
+	width:21%;
 	margin-left:5%;
 	padding-top:10px;
 	padding-left:10px;
@@ -88,23 +100,26 @@
 #topbottombar{
 	background:teal;
 	width:100%;
+	height:5px;
 }
 #copyright{
 	background:grey;
+	text-align:center;
 	color:white;
 	width:100%;
+	height:100%;
+	margin-top:1%;
+	margin-bottom:1%;
 }
 #bottombar{
-	clear:both;
+	background:grey;
 	position:absolute;
 	left:0%;
-	top:95%;
-	background:silver;
-	text-align:center;
-	height:5%;
+	top:93%;
 	width:100%;
 }
 #githubimg{
+	background:white;
 	width:64px;
 	height:64px;
 	float:left;
