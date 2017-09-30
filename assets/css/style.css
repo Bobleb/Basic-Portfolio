@@ -90,7 +90,7 @@
 	background:white;
 	float:left;
 	width:293px;
-	margin-left:5%;
+	margin-left:7%;
 	padding-top:10px;
 	padding-left:10px;
 	padding-bottom:10px;
@@ -155,12 +155,14 @@ footer{
 	width:40%;
 	float:left;
 	margin-bottom:5%;
+	padding:15px;
 }
 #contacttitle{
 	background:white;
 	color:blue;
 	text-align:left;
 	padding-left:15%;
+	font-size:30px;
 }
 #blankline3{
 	background:silver;
